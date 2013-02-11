@@ -1,7 +1,7 @@
 # Algorithms
 
 ## Union Find
-Basiccally a Union Find data structure implementations
+Basically a Union Find data structure implementations
 * union(A, B) - merge A's set with B's set
 * find(A) - finds what set A belongs to
 
