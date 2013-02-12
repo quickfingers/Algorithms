@@ -18,6 +18,11 @@
         sum++;
     for(int j = 0; j < n; j+=2)
         summ++;
+        
+### Fragment 5 O(N^3)
+    for(int i = 0; i < n; i++)
+        for (int j = 0; j < n*n; j++)
+            sum++;
 
     
     
